@@ -1,3 +1,11 @@
+IR/*
+DrVineetData/*
+Lavina*
+EigenData/*
+
+best_model3.h5
+eigenbag.lp
+best_model1.h5
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
